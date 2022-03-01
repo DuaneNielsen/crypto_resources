@@ -9,3 +9,5 @@
 [Diffie Helman Key Exchange](https://www.youtube.com/playlist?list=PL1xkDS1G9As5JGE-oHQNNBCQGKXQY2WmU)
 
 [Discrete Logarithm Problem](https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO)
+
+[The Past, evolving Present and Future of Discrete Logarithm](http://www.dtc.umn.edu/~odlyzko/doc/discretelogs2014.pdf)
