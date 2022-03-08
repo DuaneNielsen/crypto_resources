@@ -11,3 +11,5 @@
 [Discrete Logarithm Problem](https://www.youtube.com/playlist?list=PL1xkDS1G9As7E_fPaLaFchq1a27I9a5tO)
 
 [The Past, evolving Present and Future of Discrete Logarithm](http://www.dtc.umn.edu/~odlyzko/doc/discretelogs2014.pdf)
+
+[Elliptic Curve Cryptography: finite fields and discrete logarithms](https://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
